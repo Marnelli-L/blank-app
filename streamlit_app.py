@@ -81,7 +81,7 @@ st.markdown(
 )
 
 options = [
-    "😉 Netflix and Chill",
+    "😉 Netflix and Chill HEHE",
     "🌳 Picnic in the Park",
     "☕ Headache Cafe",
     "🎳 Bowling",
