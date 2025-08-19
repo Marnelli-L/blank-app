@@ -81,7 +81,7 @@ st.markdown(
 )
 
 options = [
-    "😉 Netflix and Chill HEHE",
+    "😉 Netflix and Chill",
     "🌳 Picnic in the Park",
     "☕ Headache Cafe",
     "🎳 Bowling",
@@ -98,7 +98,9 @@ choice = st.selectbox("Choose your favorite date idea:", options)
 
 st.markdown(
     """
-    
+    <div class="option-list">
+        
+    </div>
     """,
     unsafe_allow_html=True,
 )
